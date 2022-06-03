@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> I'm sangin thapa magar</h1>
+<h1 align="center"> I'm sangin Thapa Magar</h1>
 <h3 align="center">A passionate Web developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanginthapa&label=Profile%20views&color=0e75b6&style=flat" alt="sanginthapa" /> </p>
